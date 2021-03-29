@@ -5,7 +5,7 @@
 
 **So, don't hesitate to give yourself a lazy moment after hard working.**:notes: :zzz:
 
-*But personally, first, I need to be more diligent...:joy:*
+*But personally, firstly, I need to be more diligent...:joy:*
 
 
 <!--
