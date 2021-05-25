@@ -1,11 +1,5 @@
 ### Hi there 👋, I'm Tuan
 
-*I believe that:*
-> Laziness is a reward for diligence
-
-**So, don't hesitate to give yourself a lazy moment after hard working.**:notes: :zzz:
-
-*But personally, firstly, I need to be more diligent...:joy:*
 
 
 <!--
