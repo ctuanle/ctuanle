@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/header.png">
+  <img src="public/background.png">
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@
 
 ### 📚 Github Status
 
-<br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctuanle&layout=compact&theme=tokyonight&langs_count=6&hide=Java" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=ctuanle&show_icons=true&theme=tokyonight" height="165">
