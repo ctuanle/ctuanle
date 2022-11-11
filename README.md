@@ -3,18 +3,12 @@
 </p>
 
 <p align="center">
-  <code>Helle there, i'm Tuan, currently an IT student.</code>
+  Helle there, i'm Tuan, currently an IT student.
 </p>
 
 <p align="center">
   I enjoy coding the web, especially in back-end. My ultimate goal is to become a software engineer in the future, so there's a lot to learn 🛸.
 </p>
-
-<p align="center">
-  <hr>
-</p>
-
-<p align="center"> </p>
 
 ### 🛠 My knowledge
 
@@ -31,8 +25,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white&style=flat)
-
-<p align="center"><hr></p>
 
 ### 📚 Github Status
 
