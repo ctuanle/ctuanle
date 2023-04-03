@@ -1,4 +1,4 @@
-### Helle there 👋
+### Hello there 👋
 I'm Tuan, currently an MSc student in Information Technology.
 
 I enjoy coding the web, especially in back-end with Typescript and Golang. My goal is to become a software engineer in the future, so there's a lot to learn 🛸.
