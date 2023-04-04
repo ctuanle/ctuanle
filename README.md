@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm Tuan, currently an MSc student in Information Technology.
 
-I enjoy coding the web, especially in back-end with Typescript and Golang. My goal is to become a software engineer in the future, so there's a lot to learn 🛸.
+I enjoy coding web, especially in back-end with Typescript and Golang. My goal is to become a software engineer in the future, so there's a lot to learn 🛸.
 
 <!--
 **sonata1999/sonata1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
